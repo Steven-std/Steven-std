@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/matrix.svg" width="100%" alt="Matrix animation"/>
+  <img src="assets/svg/matrix.svg" width="100%" alt="Matrix animation"/>
 </p>
  
   <h1 align = "center">
