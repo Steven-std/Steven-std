@@ -19,7 +19,7 @@ I currently work as a software developer, building systems for the **industrial 
 **C# · PHP · JavaScript · SQL · Kotlin**
 
 ### 🤝 Ask Me About
-Feel free to ask me anything — I’m happy to help!
+I’ll be happy to help you!
 
 ### 📫 Contact
 [Send me an email](mailto:dracost.st@gmail.com)
