@@ -1,0 +1,147 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="360"
+  height="128"
+  viewBox="0 0 360 128"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Reproduciendo en Spotify</title>
+  <desc id="description">One Love, de Bob Marley</desc>
+
+  <style>
+    .bar {
+      clip-path: inset(100% 0 0 0);
+      animation: music-pulse var(--speed, 1.2s) steps(5, end) var(--delay, 0ms) infinite;
+    }
+
+    /* Graves: movimiento amplio y lento. */
+    .bar:nth-child(-n + 5) { --speed: 1.8s; }
+    .bar:nth-child(1) { --delay: -0.1s; }
+    .bar:nth-child(2) { --delay: -0.3s; }
+    .bar:nth-child(3) { --delay: -0.5s; }
+    .bar:nth-child(4) { --delay: -0.7s; }
+    .bar:nth-child(5) { --delay: -0.9s; }
+
+    /* Medios: pulso moderado, ligeramente desplazado entre barras. */
+    .bar:nth-child(n + 6):nth-child(-n + 13) { --speed: 1.25s; }
+    .bar:nth-child(6)  { --delay: -0.05s; }
+    .bar:nth-child(7)  { --delay: -0.18s; }
+    .bar:nth-child(8)  { --delay: -0.31s; }
+    .bar:nth-child(9)  { --delay: -0.44s; }
+    .bar:nth-child(10) { --delay: -0.57s; }
+    .bar:nth-child(11) { --delay: -0.70s; }
+    .bar:nth-child(12) { --delay: -0.83s; }
+    .bar:nth-child(13) { --delay: -0.96s; }
+
+    /* Agudos: destellos más rápidos y pequeños. */
+    .bar:nth-child(n + 14) { --speed: 0.82s; }
+    .bar:nth-child(14) { --delay: -0.04s; }
+    .bar:nth-child(15) { --delay: -0.12s; }
+    .bar:nth-child(16) { --delay: -0.20s; }
+    .bar:nth-child(17) { --delay: -0.28s; }
+    .bar:nth-child(18) { --delay: -0.36s; }
+    .bar:nth-child(19) { --delay: -0.44s; }
+    .bar:nth-child(20) { --delay: -0.52s; }
+
+    @keyframes music-pulse {
+      0%, 100% { clip-path: inset(82% 0 0 0); }
+      24%      { clip-path: inset(58% 0 0 0); }
+      48%      { clip-path: inset(28% 0 0 0); }
+      72%      { clip-path: inset(48% 0 0 0); }
+      88%      { clip-path: inset(12% 0 0 0); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .bar {
+        animation: none;
+        clip-path: none;
+      }
+    }
+  </style>
+
+  <rect
+    x="1"
+    y="1"
+    width="358"
+    height="126"
+    rx="16"
+    fill="#121212"
+    stroke="#292929"
+    stroke-width="2"
+  />
+  <rect x="1" y="17" width="4" height="94" rx="2" fill="#1ED760" />
+
+  <!-- Símbolo de Spotify -->
+  <circle cx="47" cy="64" r="26" fill="#1ED760" />
+  <g
+    fill="none"
+    stroke="#121212"
+    stroke-linecap="round"
+    stroke-width="3.4"
+  >
+    <path d="M34 55c8-2.4 18-1.1 25 3.1" />
+    <path d="M36 63c6.8-1.8 14.3-.7 20.1 2.8" />
+    <path d="M38 71c5.2-1.2 10.5-.4 14.8 2.2" />
+  </g>
+
+  <circle cx="91" cy="30" r="4" fill="#1ED760" />
+  <text
+    x="102"
+    y="34"
+    fill="#1ED760"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="11"
+    font-weight="700"
+    letter-spacing="1.2"
+  >NOW PLAYING</text>
+
+  <text
+    x="88"
+    y="67"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="21"
+    font-weight="700"
+  >One Love</text>
+
+  <text
+    x="88"
+    y="89"
+    fill="#B3B3B3"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="14"
+  >Bob Marley</text>
+
+  <text
+    x="88"
+    y="108"
+    fill="#777777"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="11"
+  >Listening on Spotify</text>
+
+  <!-- Ecualizador de píxeles animados -->
+  <g fill="#1ED760">
+  <g class="bar"><path d="M198 89h4v4h-4z M198 84h4v4h-4z M198 79h4v4h-4z M198 74h4v4h-4z"/></g>
+  <g class="bar"><path d="M205 89h4v4h-4z M205 84h4v4h-4z M205 79h4v4h-4z M205 74h4v4h-4z M205 69h4v4h-4z M205 64h4v4h-4z"/></g>
+  <g class="bar"><path d="M212 89h4v4h-4z M212 84h4v4h-4z M212 79h4v4h-4z"/></g>
+  <g class="bar"><path d="M219 89h4v4h-4z M219 84h4v4h-4z M219 79h4v4h-4z M219 74h4v4h-4z M219 69h4v4h-4z"/></g>
+  <g class="bar"><path d="M226 89h4v4h-4z M226 84h4v4h-4z M226 79h4v4h-4z M226 74h4v4h-4z"/></g>
+  <g class="bar"><path d="M233 89h4v4h-4z M233 84h4v4h-4z M233 79h4v4h-4z M233 74h4v4h-4z M233 69h4v4h-4z M233 64h4v4h-4z M233 59h4v4h-4z"/></g>
+  <g class="bar"><path d="M240 89h4v4h-4z M240 84h4v4h-4z M240 79h4v4h-4z"/></g>
+  <g class="bar"><path d="M247 89h4v4h-4z M247 84h4v4h-4z M247 79h4v4h-4z M247 74h4v4h-4z M247 69h4v4h-4z"/></g>
+  <g class="bar"><path d="M254 89h4v4h-4z M254 84h4v4h-4z M254 79h4v4h-4z M254 74h4v4h-4z M254 69h4v4h-4z M254 64h4v4h-4z"/></g>
+  <g class="bar"><path d="M261 89h4v4h-4z M261 84h4v4h-4z M261 79h4v4h-4z"/></g>
+  <g class="bar"><path d="M268 89h4v4h-4z M268 84h4v4h-4z M268 79h4v4h-4z M268 74h4v4h-4z M268 69h4v4h-4z M268 64h4v4h-4z M268 59h4v4h-4z"/></g>
+  <g class="bar"><path d="M275 89h4v4h-4z M275 84h4v4h-4z M275 79h4v4h-4z M275 74h4v4h-4z"/></g>
+  <g class="bar"><path d="M282 89h4v4h-4z M282 84h4v4h-4z M282 79h4v4h-4z M282 74h4v4h-4z M282 69h4v4h-4z"/></g>
+  <g class="bar"><path d="M289 89h4v4h-4z M289 84h4v4h-4z M289 79h4v4h-4z M289 74h4v4h-4z M289 69h4v4h-4z M289 64h4v4h-4z"/></g>
+  <g class="bar"><path d="M296 89h4v4h-4z M296 84h4v4h-4z M296 79h4v4h-4z"/></g>
+  <g class="bar"><path d="M303 89h4v4h-4z M303 84h4v4h-4z M303 79h4v4h-4z M303 74h4v4h-4z M303 69h4v4h-4z M303 64h4v4h-4z M303 59h4v4h-4z"/></g>
+  <g class="bar"><path d="M310 89h4v4h-4z M310 84h4v4h-4z M310 79h4v4h-4z M310 74h4v4h-4z"/></g>
+  <g class="bar"><path d="M317 89h4v4h-4z M317 84h4v4h-4z M317 79h4v4h-4z M317 74h4v4h-4z M317 69h4v4h-4z M317 64h4v4h-4z"/></g>
+  <g class="bar"><path d="M324 89h4v4h-4z M324 84h4v4h-4z M324 79h4v4h-4z M324 74h4v4h-4z M324 69h4v4h-4z"/></g>
+  <g class="bar"><path d="M331 89h4v4h-4z M331 84h4v4h-4z M331 79h4v4h-4z M331 74h4v4h-4z"/></g>
+</g>
+</svg>
