@@ -7,11 +7,6 @@
   <img src="assets/svg/matrix.svg" width="100%"  alt="Matrix-animation"/>
 </p>
  
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code+space&size=78&duration=2100&pause=600&color=1527F7&background=000000&center=true&multiline=true&width=1920&height=384&lines=;¡Hello+there!;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
-</h1>
-
-
 
 ## 👨‍💻 About Me
 
