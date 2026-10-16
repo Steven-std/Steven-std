@@ -32,11 +32,11 @@ I’ll be happy to help you!
 📫 Let me a a e-mail: dracost.st@gmail.com
 </br></br>
 
-<code><img width="10%" src="assets/svg/git.svg"></code>
-<code><img width="10%" src="assets/svg/vscode.svg"></code>
-<code><img width="10%" src="assets/svg/vs.svg"></code>
-<code><img width="10%" src="assets/svg/intellij-idea.svg"></code>
-<code><img width="10%" src="assets/svg/sql.svg"></code>
+<code><img width="8%" src="assets/svg/git.svg"></code>
+<code><img width="8%" src="assets/svg/vscode.svg"></code>
+<code><img width="8%" src="assets/svg/vs.svg"></code>
+<code><img width="8%" src="assets/svg/intellij-idea.svg"></code>
+<code><img width="8%" src="assets/svg/sql.svg"></code>
 
 
 </br>
@@ -47,7 +47,7 @@ I’ll be happy to help you!
 
 class Bio extends SoftwareDeveloper {
   name          = 'Steven Garnica';
-  Profession    = 'Software Development';
+  Profession    = 'Software Programmer';
   location      = 'Madrid - España';
 }
 
@@ -62,17 +62,3 @@ class Skills extends SoftwareDeveloper {
 </br>
 
 <img src="assets/svg/spotify.svg" height="80" width="300"></a>
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
