@@ -11,10 +11,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1527F7&center=true&vCenter=true&width=800&height=100&lines=Hello+there!;Welcome+to+my+GitHub!" alt="Texto animado" />
 
-</br>
 
 ## 👨‍💻 About Me
-
 
 I’m a **Computer Software Technician** with a strong foundation in **financial analysis and accounting**. I’m continually expanding my skills in **front-end development, back-end development, and SQL**.
 
