@@ -1,12 +1,17 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code+space&size=78&duration=2100&pause=600&color=1527F7&background=000000&center=true&multiline=true&width=1920&height=384&lines=;¡Hello+there!;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
-</h1>
+<p>
+  <h1 align="center"><b>Welcome to my perfil👋</b></h1>
+</p>
 
 
 <p align="center">
   <img src="assets/svg/matrix.svg" width="100%"  alt="Matrix-animation"/>
 </p>
  
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code+space&size=78&duration=2100&pause=600&color=1527F7&background=000000&center=true&multiline=true&width=1920&height=384&lines=;¡Hello+there!;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
+</h1>
+
+
 
 ## 👨‍💻 About Me
 
@@ -69,4 +74,12 @@ class Skills extends SoftwareDeveloper {
 
 
 
-S
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
