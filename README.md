@@ -25,10 +25,7 @@
 
 📫 Let me a a e-mail: dracost.st@gmail.com
 </br></br>
-<p align="center">
-<img src="assets/svg/spotify.svg" height="80" width="300"></a>
-</p>
-<br>
+
 
   <code><img width="10%" src="assets/svg/vscode.svg"></code>
  <code><img width="10%" src="assets/svg/vs.svg"></code>
@@ -55,11 +52,13 @@ class Skills extends SoftwareDeveloper {
 }
 
 
+</br></br>
+<p align="center">
+<img src="assets/svg/spotify.svg" height="80" width="300"></a>
+</p>
 
-<!--
-**Steven-std/Steven-std** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
