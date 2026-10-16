@@ -32,7 +32,7 @@ I’ll be happy to help you!
 📫 Let me a a e-mail: dracost.st@gmail.com
 </br></br>
 
-
+<code><img width="10%" src="assets/svg/git.svg"></code>
 <code><img width="10%" src="assets/svg/vscode.svg"></code>
 <code><img width="10%" src="assets/svg/vs.svg"></code>
 <code><img width="10%" src="assets/svg/intellij-idea.svg"></code>
