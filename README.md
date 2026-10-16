@@ -29,8 +29,8 @@
 
   <code><img width="10%" src="assets/svg/vscode.svg"></code>
  <code><img width="10%" src="assets/svg/vs.svg"></code>
- <code><img width="10%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/intellij-idea-ide-icon.png"></code>
-<code><img width="10%" src="https://www.svgrepo.com/show/117653/sql-file-format.svg"></code>
+ <code><img width="10%" src="assets/svg/intellij-idea.svg"></code>
+<code><img width="10%" src="assets/svg/sql.svg"></code>
 
 
 </br>
