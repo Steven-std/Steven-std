@@ -51,6 +51,7 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'Node.js', 'ASP.NET', 'Spring Framework'];
 }
 
+```
 
 </br></br>
 <p align="center">
