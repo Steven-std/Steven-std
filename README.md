@@ -24,9 +24,9 @@
 
 
 📫 Let me a a e-mail: dracost.st@gmail.com
-
+<br>
 <p align="center">
-<img src="assets/svg/spotify.svg" height="130" width="300"></a>
+<img src="assets/svg/spotify.svg" height="100" width="300"></a>
 </p>
 <br>
 
