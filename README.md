@@ -1,12 +1,13 @@
-<p>
-  <h1 align="center"><b>Welcome to my perfil👋</b></h1>
-</p>
+
 
 
 <p align="center">
   <img src="assets/svg/matrix.svg" width="100%"  alt="Matrix-animation"/>
 </p>
- 
+ </br>
+ <p>
+  <h1 align="center"><b>Welcome to my perfil👋</b></h1>
+</p>
 
 ## 👨‍💻 About Me
 
