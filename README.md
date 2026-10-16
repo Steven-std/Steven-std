@@ -1,14 +1,15 @@
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code+space&size=76&duration=1500&pause=600&color=1527F7&background=000000&center=true&multiline=true&width=1920&height=384&lines=;¡Hello+there!;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
+</h1>
+
+
 <p align="center">
   <img src="assets/svg/matrix.svg" width="100%"  alt="Matrix-animation"/>
 </p>
  
 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Code+space&size=80&duration=1500&pause=600&color=1527F7&background=000000&center=true&multiline=true&width=1920&height=384&lines=;¡Hello+there!;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
-</h1>
-
-
 ## 👨‍💻 About Me
+
 
 I’m a **Computer Software Technician** with a strong foundation in **financial analysis and accounting**. I’m continually expanding my skills in **front-end development, back-end development, and SQL**.
 
@@ -26,7 +27,9 @@ Feel free to ask me anything — I’m happy to help!
 [Send me an email](mailto:dracost.st@gmail.com)
 
 
+
 ✔ Ask me about anything, I am happy to help
+
 
 📫 Let me a a e-mail: dracost.st@gmail.com
 </br></br>
