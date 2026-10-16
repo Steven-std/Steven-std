@@ -13,11 +13,6 @@ I’m a **Computer Software Technician** with a strong foundation in **financial
 
 I currently work as a software developer, building systems for the **industrial and financial services sectors**.
 
-🚀 I enjoy learning and creating **innovative, productive, and creative solutions**. I’m always up for challenging projects that help me grow professionally and technically.
-
-### 📚 Currently Learning
-**C# · PHP · JavaScript · SQL · Kotlin**
-
 ### 🤝 Ask Me About
 I’ll be happy to help you!
 
