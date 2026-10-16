@@ -1,4 +1,7 @@
-## Hi there 👋
+<p>
+  <h1 align="center"><b>Welcome, I'm Steven 👋</b></h1>
+</p>
+
 
 <p align="center">
   <img src="assets/svg/matrix.svg" width="100%"  alt="Matrix-animation"/>
@@ -7,10 +10,6 @@
   <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Steven+;Welcome+to+my+GitHub+" alt="Typing SVG" /></a>
 </h1>
-<p>
-  <h1 align="center"><b>Hello there, I'm Steven 👋</b></h1>
-</p>
-
 
 
 <section 
@@ -21,19 +20,18 @@
 
 
 
-
-
-
 ✔ Ask me about anything, I am happy to help
 
 
 📫 Let me a a e-mail: dracost.st@gmail.com
 
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<p align="center">
+<img src="assets/svg/spotify.svg" height="130" width="300"></a>
+</p>
 <br>
 
-  <code><img width="10%" src="https://www.svgrepo.com/show/331782/visual-studio.svg"></code>
- <code><img width="10%" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"></code>
+  <code><img width="10%" src="assets/svg/vscode.svg"></code>
+ <code><img width="10%" src="assets/svg/vs.svg"></code>
  <code><img width="10%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/intellij-idea-ide-icon.png"></code>
 <code><img width="10%" src="https://www.svgrepo.com/show/117653/sql-file-format.svg"></code>
 
