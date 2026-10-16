@@ -5,11 +5,13 @@
  </br>
 
 <p>
-  <h1 align="center"><b>Welcome to my perfil👋</b></h1>
+  <h1 align="center"><b>👋</b></h1>
 </p>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1527F7&center=true&vCenter=true&width=800&height=100&lines=Hello+there!;Welcome+to+my+GitHub!" alt="Texto animado" />
+
+</br>
 
 ## 👨‍💻 About Me
 
