@@ -24,7 +24,7 @@
 
 
 📫 Let me a a e-mail: dracost.st@gmail.com
-</br></br>
+</br>
 
 
   <code><img width="10%" src="assets/svg/vscode.svg"></code>
@@ -33,7 +33,7 @@
 <code><img width="10%" src="https://www.svgrepo.com/show/117653/sql-file-format.svg"></code>
 
 
-
+</br>
 
 
 ```js
@@ -53,7 +53,7 @@ class Skills extends SoftwareDeveloper {
 
 ```
 
-</br></br>
+</br>
 <p align="center">
 <img src="assets/svg/spotify.svg" height="80" width="300"></a>
 </p>
